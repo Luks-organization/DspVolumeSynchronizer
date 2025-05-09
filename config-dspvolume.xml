@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <config>
-    <allow-in-power-save package="org.lineageos.dspvolume" />
-    <hidden-api-whitelisted-app package="org.lineageos.dspvolume" />
+    <allow-in-power-save package="org.lineageos.dspvolume.realme" />
+    <hidden-api-whitelisted-app package="org.lineageos.dspvolume.realme" />
 </config>
